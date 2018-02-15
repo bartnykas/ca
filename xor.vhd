@@ -1,5 +1,6 @@
 -- FILE: xor.vhd
 -- Compiled by: Bartnykas
+-- 3 eilutė
 library ieee;
 use ieee.std_logic_1164.all;
 
